@@ -1,0 +1,1 @@
+Manually create the key_pair "myfirstec2instance" in the console before applying this configuration
